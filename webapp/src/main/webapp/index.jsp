@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to my first devops pipeline using EC2 !!! </h1>
+<h1> Hello, Welcome to devops pipeline using Ansible !!! </h1>
 
